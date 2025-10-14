@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "เข้าถึงข้อมูล รายการสินค้าทั้งหมด",
+			"name": "เข้าถึงข้อมูล รายการสินค้าชิ้นที่ 20",
 			"id": "48986583-43ddb085-8acc-436a-859e-34a99febb4ab",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
