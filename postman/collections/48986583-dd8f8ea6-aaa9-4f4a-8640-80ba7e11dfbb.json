@@ -108,7 +108,7 @@
 			"response": []
 		},
 		{
-			"name": "New Request",
+			"name": "ลบข้อมูลชิ้นที่ 20",
 			"id": "48986583-be405ea7-46db-4710-bbd8-3d7e5e8a4ce3",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
